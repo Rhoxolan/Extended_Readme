@@ -1,7 +1,7 @@
 # My projects
 + ### [Structured Cabling Studio](https://github.com/Rhoxolan/Structured_Cabling_Studio)<br>
 Web application for calculation of necessary meterage of installation cable and obtaining cable selection recommendations for design of a structured cabling.<br>
-Technology stack: ASP.NET Core 7 MVC, EF Core 7, SQLite.<br>
+Technology stack: ASP.NET Core 7 MVC, EF Core 7, MS SQL Server.<br>
 The work is ongoing.<br><br>
 
 + ### [SCS-Calc 2.0](https://github.com/Rhoxolan/SCS-Calc_2.0)<br>
