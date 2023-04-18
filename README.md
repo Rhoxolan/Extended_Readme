@@ -2,7 +2,7 @@
 + ### [Structured Cabling Studio](https://github.com/Rhoxolan/Structured_Cabling_Studio)<br>
 Web application for calculation of necessary meterage of installation cable and obtaining cable selection recommendations for design of a structured cabling.<br>
 Technology stack: .NET 7, ASP.NET Core MVC, EF Core, MS SQL Server.<br>
-Client part technologies: HTML + Razor, Native Java Script, JQuery, Bootstrap v5.2.3.<br>
+Client part technologies: HTML + Razor, CSS3, Native Java Script, JQuery, Bootstrap v5.2.3.<br>
 The work is ongoing.<br><br>
 
 + ### [SCS-Calc 2.0](https://github.com/Rhoxolan/SCS-Calc_2.0)<br>
