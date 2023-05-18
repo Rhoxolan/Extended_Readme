@@ -4,6 +4,8 @@ Web application for calculation of necessary meterage of installation cable and 
 Technology stack: .NET 7, ASP.NET Core MVC, EF Core, MS SQL Server<br/>
 Application archutecture: MVC + REST<br/>
 Client side technology: HTML + Razor<br/>
+Release date: 18 May 2023<br/>
+URL - [structured-cabling-studio.pro](https://structured-cabling-studio.pro)<br/><br/>
 
 + ### [SCS-Calc 2.0](https://github.com/Rhoxolan/SCS-Calc_2.0)<br>
 Windows desktop application for calculation of structured cabling installation necessary cable meterage, into account the requirements of the ISO/IEC 11801 standard.<br>
